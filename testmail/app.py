@@ -35,3 +35,5 @@ def index():
 
 if __name__ == '__main__':
     app.run()
+    num1 =10
+
